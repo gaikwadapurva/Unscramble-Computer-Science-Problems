@@ -33,4 +33,4 @@ The script correctly prints the list of numbers that could be telemarketers.
 
 ### Run Time - Analysis.txt
 
-A file explaining the run time analysis (Worst Case Big O Notation) for each solution produced.
+A file explaining the run time analysis (Worst Case Big O Notation) for each of the solution produced.
